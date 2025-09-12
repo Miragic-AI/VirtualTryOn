@@ -7,8 +7,7 @@ A collection of state-of-the-art virtual try-on models based on top research pap
 We published website and mobile app on google play store!!
 
 ## Top Virtual Try On Clothes Website
-<a href="https://miragic.ai" target="_blank">
-</a>
+<a href="https://miragic.ai" target="_blank"/a>
 
 ## Virtual Try On For Clothes Demo, Resources
 <div style="display: flex; justify-content: center; align-items: center;"> 
