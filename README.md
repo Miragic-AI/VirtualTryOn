@@ -21,7 +21,7 @@ We published website and mobile app on google play store!!
       </tr> 
       <tr>
          <td style="text-align: center; vertical-align: middle;"><a href="facebook.com/profile.php?id=61577373416753"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Facebook_Logo_%282019%29.svg/2560px-Facebook_Logo_%282019%29.svg.png" style="height: 60px; margin-right: 5px;" title="facebook"/></a></td> 
-         <td style="text-align: center; vertical-align: middle;"><a href="instagram.com/miragic.ai"><img src="https://www.columbustexaslibrary.net/kids-teens/instagramlogo.png/@@images/image.png" style="height: 60px; margin-right: 5px;" title="Instagram"/></a></td> 
+         <td style="text-align: center; vertical-align: middle;"><a href="https://www.instagram.com/miragic.ai/#"><img src="https://www.columbustexaslibrary.net/kids-teens/instagramlogo.png/@@images/image.png" style="height: 60px; margin-right: 5px;" title="Instagram"/></a></td> 
          <td style="text-align: center; vertical-align: middle;"><a href="https://www.tiktok.com/@miragic.ai"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Tiktok_logo_text.svg/2560px-Tiktok_logo_text.svg.png" style="height: 60px; margin-right: 5px;" title="Tiktok"/></a></td>
       </tr>
    </table>
