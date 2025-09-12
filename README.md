@@ -8,7 +8,8 @@ We published website and mobile app on google play store!!
 
 <br>
 
-[Watch the demo](https://www.youtube.com/shorts/Lg0U9s-3J40)
+[![Watch the video](https://img.youtube.com/vi/r76TYO_roD4/maxresdefault.jpg)](https://www.youtube.com/shorts/r76TYO_roD4)
+
 
 ## To learn more, please visit [Here](https://www.miragic.ai/)!
 <a href="https://miragic.ai" target="_blank">
