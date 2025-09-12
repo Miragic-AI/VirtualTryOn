@@ -18,12 +18,12 @@ We published website and mobile app on google play store!!
          <td style="text-align: center; vertical-align: middle;"><a href="https://huggingface.co/Miragic-AI"><img src="https://miniai.live/wp-content/uploads/2024/10/new_hugging-1-300x67.png" style="height: 60px; margin-right: 5px;" title="HuggingFace"/></a></td> 
          <td style="text-align: center; vertical-align: middle;"><a href="https://www.youtube.com/@Miragic-ai"><img src="https://miniai.live/wp-content/uploads/2024/10/Untitled-1-300x70.png" style="height: 60px; margin-right: 5px;" title="Youtube"/></a></td> 
          <td style="text-align: center; vertical-align: middle;"><a href="https://play.google.com/store/apps/details?id=com.miragic.miragicdressing"><img src="https://miniai.live/wp-content/uploads/2024/10/googleplay-300x62.png" style="height: 60px; margin-right: 5px;" title="Google Play"/></a></td>
-      <tr>
+      </tr>
       <tr>
          <td style="text-align: center; vertical-align: middle;"><a href="facebook.com/profile.php?id=61577373416753"><img src="https://static.vecteezy.com/system/resources/previews/018/930/698/non_2x/facebook-logo-facebook-icon-transparent-free-png.png" style="height: 60px; margin-right: 5px;" title="Facebook"/></a></td> 
          <td style="text-align: center; vertical-align: middle;"><a href="instagram.com/miragic.ai"><img src="https://img.freepik.com/premium-psd/instagram-logo_971166-164438.jpg?semt=ais_hybrid&w=740&q=80" style="height: 60px; margin-right: 5px;" title="Instagram"/></a></td> 
          <td style="text-align: center; vertical-align: middle;"><a href="https://www.tiktok.com/@miragic.ai"><img src="https://static.vecteezy.com/system/resources/previews/042/127/117/non_2x/white-outline-round-tiktok-icon-on-a-transparent-background-free-png.png" style="height: 60px; margin-right: 5px;" title="TikTok"/></a></td>
-      <tr>
+      </tr>
    </table>
 </div>
 
