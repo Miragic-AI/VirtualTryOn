@@ -8,7 +8,7 @@ We published website and mobile app on google play store!!
 
 <br>
 
-https://www.youtube.com/shorts/Lg0U9s-3J40
+[Watch the demo](https://github.com/Miragic-AI/Virtual-Try-On/tree/main/DemoVideo/VirtualTryOnTutorial.mp4)
 
 ## To learn more, please visit [Here](https://www.miragic.ai/)!
 <a href="https://miragic.ai" target="_blank">
