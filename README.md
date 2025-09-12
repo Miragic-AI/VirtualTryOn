@@ -2,7 +2,7 @@
    <h1>Virtual Try On Top Paper implementation</h1>
 </div>
 
-## Welcome to the [Miragic](https://www.miragic.ai/)!
+## To see the Implementation, Please Visit [Miragic.ai](https://www.miragic.ai/)!
 A collection of state-of-the-art virtual try-on models based on top research papers, with ready-to-use code and demos.
 We published website and mobile app on google play store!!
 To see how it works, please click below image.
