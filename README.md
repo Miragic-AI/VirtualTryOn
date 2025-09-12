@@ -19,9 +19,9 @@ To see how it works, please click below image.
     <td><img src="https://github.com/Miragic-AI/Virtual-Try-On/blob/main/images/3.jpg" width="500"/></td>
   </tr>
   <tr>
-    <td><img src="IMAGE4_URL" width="500"/></td>
-    <td><img src="IMAGE5_URL" width="500"/></td>
-    <td><img src="IMAGE6_URL" width="500"/></td>
+    <td><img src="https://github.com/Miragic-AI/Virtual-Try-On/blob/main/images/4.jpg" width="500"/></td>
+    <td><img src="https://github.com/Miragic-AI/Virtual-Try-On/blob/main/images/5.jpg" width="500"/></td>
+    <td><img src="https://github.com/Miragic-AI/Virtual-Try-On/blob/main/images/6.jpg" width="500"/></td>
   </tr>
 </table>
 
