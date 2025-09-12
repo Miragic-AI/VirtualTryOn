@@ -6,7 +6,7 @@
 A collection of state-of-the-art virtual try-on models based on top research papers, with ready-to-use code and demos.
 We published website and mobile app on google play store!!
 
-## Top Virtual Try On Clothes Website
+## To learn more, please visit [Here](https://www.miragic.ai/)!
 <a href="https://miragic.ai" target="_blank">
   <img alt="" src="https://miragic.ai/png/new_miragic_logo.png" height=80/>
 </a>
@@ -430,3 +430,6 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 - [Human Body Reconstruction](https://github.com/chenweikai/Body_Reconstruction_References)
 - [Awesome 3D Body Papers](https://github.com/3DFaceBody/awesome-3dbody-papers)
 - [Awesome pose transfer](https://github.com/Zhangjinso/Awesome-pose-transfer)
+
+## Contact US
+For any inquiries or questions, please contact us on [Email](info@miragic.ai).
