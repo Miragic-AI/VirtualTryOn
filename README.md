@@ -26,8 +26,9 @@ To see how it works, please click below image.
 </table>
 
 ## Scan and Play Virtual Try On App on Google Play Store!
-<a img src="https://github.com/Miragic-AI/Virtual-Try-On/blob/main/images/qr.png" width="500"/>
-
+<p align="center">
+  <img src="https://github.com/Miragic-AI/Virtual-Try-On/blob/main/images/qr.png" width="500"/>
+</p>
 
 ## To learn more, please visit [Here](https://www.miragic.ai/)!
 <a href="https://miragic.ai" target="_blank">
