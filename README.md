@@ -20,8 +20,8 @@ To see how it works, please click below image.
   </tr>
   <tr>
     <td><img src="https://github.com/Miragic-AI/Virtual-Try-On/blob/main/images/7.jpg" width="500"/></td>
-    <td><img src="https://github.com/Miragic-AI/Virtual-Try-On/blob/main/images/8.jpg" width="500"/></td>
-    <td><img src="https://github.com/Miragic-AI/Virtual-Try-On/blob/main/images/9.jpg" width="500"/></td>
+    <td><img src="https://github.com/Miragic-AI/Virtual-Try-On/blob/main/images/8.png" width="500"/></td>
+    <td><img src="https://github.com/Miragic-AI/Virtual-Try-On/blob/main/images/9.png" width="500"/></td>
   </tr>
 </table>
 
