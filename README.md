@@ -6,6 +6,10 @@
 A collection of state-of-the-art virtual try-on models based on top research papers, with ready-to-use code and demos.
 We published website and mobile app on google play store!!
 
+<br>
+
+https://github.com/Miragic-AI/Virtual-Try-On/tree/main/DemoVideo/VirtualTryOnTutorial.mp4
+
 ## To learn more, please visit [Here](https://www.miragic.ai/)!
 <a href="https://miragic.ai" target="_blank">
   <img alt="" src="https://miragic.ai/png/new_miragic_logo.png" height=80/>
