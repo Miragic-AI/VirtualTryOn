@@ -14,9 +14,9 @@ To see how it works, please click below image.
 ## See the results! WoW~~, Great~~~
 <table>
   <tr>
-    <td><img src="https://github.com/Miragic-AI/Virtual-Try-On/blob/main/images/1.jpg" width="200"/></td>
-    <td><img src="https://github.com/Miragic-AI/Virtual-Try-On/blob/main/images/2.jpg" width="200"/></td>
-    <td><img src="https://github.com/Miragic-AI/Virtual-Try-On/blob/main/images/3.jpg" width="200"/></td>
+    <td><img src="https://github.com/Miragic-AI/Virtual-Try-On/blob/main/images/1.jpg" width="300"/></td>
+    <td><img src="https://github.com/Miragic-AI/Virtual-Try-On/blob/main/images/2.jpg" width="300"/></td>
+    <td><img src="https://github.com/Miragic-AI/Virtual-Try-On/blob/main/images/3.jpg" width="300"/></td>
   </tr>
   <tr>
     <td><img src="IMAGE4_URL" width="200"/></td>
