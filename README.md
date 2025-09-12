@@ -22,7 +22,7 @@ We published website and mobile app on google play store!!
       <tr>
          <td style="text-align: center; vertical-align: middle;"><a href="facebook.com/profile.php?id=61577373416753"><img src="https://w7.pngwing.com/pngs/330/480/png-transparent-facebook-blog-youtube-icon-facebook-blue-text-logo.png" style="height: 60px; margin-right: 5px;" title="facebook"/></a></td> 
          <td style="text-align: center; vertical-align: middle;"><a href="instagram.com/miragic.ai"><img src="https://www.columbustexaslibrary.net/kids-teens/instagramlogo.png/@@images/image.png" style="height: 60px; margin-right: 5px;" title="Instagram"/></a></td> 
-         <td style="text-align: center; vertical-align: middle;"><a href="https://www.tiktok.com/@miragic.ai"><img src="https://pin.it/6CNzjMbMW" style="height: 60px; margin-right: 5px;" title="Google Play"/></a></td>
+         <td style="text-align: center; vertical-align: middle;"><a href="https://www.tiktok.com/@miragic.ai"><img src="https://i.pinimg.com/736x/11/58/5c/11585c8ec990418fd30ea1648259ca39.jpg" style="height: 60px; margin-right: 5px;" title="Tiktok"/></a></td>
       </tr>
    </table>
 </div>
