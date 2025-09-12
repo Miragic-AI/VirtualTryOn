@@ -432,4 +432,4 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 - [Awesome pose transfer](https://github.com/Zhangjinso/Awesome-pose-transfer)
 
 ## Contact US
-For any inquiries or questions, please contact us on [Email](info@miragic.ai).
+For any inquiries or questions, please contact us on info@miragic.ai.
