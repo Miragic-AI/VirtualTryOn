@@ -22,7 +22,7 @@ We published website and mobile app on google play store!!
       <tr>
          <td style="text-align: center; vertical-align: middle;"><a href="facebook.com/profile.php?id=61577373416753"><img src="https://static.vecteezy.com/system/resources/previews/018/930/698/non_2x/facebook-logo-facebook-icon-transparent-free-png.png" style="height: 60px; margin-right: 5px;" title="Documentation"/></a></td> 
          <td style="text-align: center; vertical-align: middle;"><a href="instagram.com/miragic.ai"><img src="https://img.freepik.com/premium-psd/instagram-logo_971166-164438.jpg?semt=ais_hybrid&w=740&q=80" style="height: 60px; margin-right: 5px;" title="Youtube"/></a></td> 
-         <td style="text-align: center; vertical-align: middle;"><a href="https://www.tiktok.com/@miragic.ai"><img src="https://static.vecteezy.com/system/resources/previews/042/127/117/non_2x/white-outline-round-tiktok-icon-on-a-transparent-background-free-png.png" style="height: 60px; margin-right: 5px;" title="Google Play"/></a></td>
+         <td style="text-align: center; vertical-align: middle;"><a href="https://www.tiktok.com/@miragic.ai"><img src="https://www.citypng.com/public/uploads/preview/tik-tok-horizontal-logo-text-social-media-701751694793244anybvrmyy8.png?v=202509011" style="height: 60px; margin-right: 5px;" title="Google Play"/></a></td>
       </tr>
    </table>
 </div>
