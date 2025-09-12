@@ -10,6 +10,11 @@ We published website and mobile app on google play store!!
 
 [![Watch the video](https://img.youtube.com/vi/r76TYO_roD4/maxresdefault.jpg)](https://www.youtube.com/shorts/r76TYO_roD4)
 
+## FaceRecognition APK
+<a href="https://play.google.com/store/apps/details?id=com.miragic.miragicdressing" target="_blank">
+  <img alt="" src="https://user-images.githubusercontent.com/125717930/230804673-17c99e7d-6a21-4a64-8b9e-a465142da148.png" height=80/>
+</a>
+
 
 ## To learn more, please visit [Here](https://www.miragic.ai/)!
 <a href="https://miragic.ai" target="_blank">
