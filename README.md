@@ -6,8 +6,7 @@
 A collection of state-of-the-art virtual try-on models based on top research papers, with ready-to-use code and demos.
 We published website and mobile app on google play store!!
 
-<br>
-<video src="https://github.com/Miragic-AI/Virtual-Try-On/tree/main/DemoVideo/VirtualTryOnTutorial.mp4" controls></video>
+<video src="https://github.com/Miragic-AI/Virtual-Try-On/raw/main/DemoVideo/VirtualTryOnTutorial.mp4" controls></video>
 
 <!-- [![Watch the video](https://img.youtube.com/vi/r76TYO_roD4/maxresdefault.jpg)](https://www.youtube.com/shorts/r76TYO_roD4) -->
 
