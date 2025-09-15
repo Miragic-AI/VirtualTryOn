@@ -7,7 +7,7 @@ A collection of state-of-the-art virtual try-on models based on top research pap
 We published website and mobile app on google play store!!
 
 ## Demo
-https://user-images.githubusercontent.com/63489382/163922795-5dbb0f52-95e4-42c6-95d7-2d965abeba6d.mp4
+https://github.com/user-attachments/assets/54534ddf-56aa-4e0d-9a58-bf82ec2b1a2d
 
 
 <!-- [![Watch the video](https://img.youtube.com/vi/r76TYO_roD4/maxresdefault.jpg)](https://www.youtube.com/shorts/r76TYO_roD4) -->
