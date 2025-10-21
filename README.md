@@ -35,7 +35,9 @@ https://github.com/user-attachments/assets/54534ddf-56aa-4e0d-9a58-bf82ec2b1a2d
 
 ## To get API document, please visit [Here](https://docs.miragic.ai/vto-api-reference)!
 <p align="center">
-  <img src="https://github.com/Miragic-AI/Virtual-Try-On/blob/main/images/vtoapi.png" width="1065"/>
+  <a href="https://docs.miragic.ai/vto-api-reference">
+      <img src="https://github.com/Miragic-AI/Virtual-Try-On/blob/main/images/vtoapi.png" width="1065"/>
+   </a>
 </p>
 
 ## Scan and Play Virtual Try On App on Google Play Store!
